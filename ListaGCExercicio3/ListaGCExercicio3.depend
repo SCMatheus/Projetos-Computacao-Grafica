@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557964989 source:d:\mathe\onedrive\documents\projetosopengl\listagcexercicio3\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+	<cmath>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1550783708 source:d:\projetos\teste\main.c
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+
